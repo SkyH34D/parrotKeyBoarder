@@ -6,6 +6,6 @@
 
 6. Entramos en el repositorio parrotKeyBoarder: `cd parrotKeyBoarder`
 
-7. Damos permisos de ejecución al script: `sudo chmod +x script.sh`
+7. Damos permisos de ejecución al script (pedirá contraseña root): `sudo chmod +x script.sh`
 
 8. Ejecutamos el script: `sudo ./script.sh`
